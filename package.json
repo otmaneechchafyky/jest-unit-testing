@@ -1,0 +1,14 @@
+{
+  "name": "jest-testing",
+  "version": "1.0.0",
+  "description": "to learn how to test my units",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "Otmane",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
